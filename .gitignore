@@ -1,0 +1,26 @@
+# 构建产物
+build/
+sdkconfig
+sdkconfig.old
+*.o
+*.obj
+*.elf
+*.bin
+*.map
+*.hex
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# 临时
+~$*
+*.tmp
